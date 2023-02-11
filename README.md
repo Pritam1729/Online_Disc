@@ -1,5 +1,5 @@
 # Online_Disc
 
-    This a simple Dice game website Using Simple HTML,CSS and JAVASCRIPT. 
+Online_Disc is a simple fun website. Which is built using HTML, CSS and javascript
     
-  check the website Over here https://pritam1729.github.io/Online_Dise/
+check the website Over here https://pritam1729.github.io/Online_Dise/
